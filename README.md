@@ -42,9 +42,8 @@ Here are some ideas to get you started:
 
 ## 📂 Demo Projects (Work in Progress)
 
-- Demo project of authentication in Nuxt 4 using Magic Link and Cookie-Based Authentication:
-  Repo: 💫 [magic-link-auth-demo](https://github.com/JoyMefisto/magic-link-auth-demo)
-  🚀 Live demo: [magic-link-auth-demo.vercel.app](https://magic-link-auth-demo.vercel.app/)
+- [Nuxt 4 Auth Demo](https://github.com/JoyMefisto/magic-link-auth-demo) – Magic Link and Cookie-Based Authentication
+  🚀 [Live demo](https://magic-link-auth-demo.vercel.app/)
 - Vue UI Library (Vue 3 + Vite) 💫 Soon – Form Components
 - Vue Performance Lab (Vue 3 + Vite) 💫 Soon — experiments with rendering & optimization
 
