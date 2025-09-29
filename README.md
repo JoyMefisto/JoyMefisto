@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 - [Nuxt 4 Auth Demo](https://github.com/JoyMefisto/magic-link-auth-demo) – Magic Link and Cookie-Based Authentication
   🚀 [Live demo](https://magic-link-auth-demo.vercel.app/)
-- Vue UI Library (Vue 3 + Vite) 💫 Soon – Form Components
+- [Vue UI Library Demo](https://github.com/JoyMefisto/vue-ui-lib-demo) – Vue 3 UI library with three components (UButton, UCard, UInput), typed in TS, tested with Vitest, and documented in Storybook with CSS variable theming.
 - Vue Performance Lab (Vue 3 + Vite) 💫 Soon — experiments with rendering & optimization
 
 ---
