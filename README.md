@@ -40,12 +40,13 @@ Here are some ideas to get you started:
 
 ---
 
-## 📂 Demo Projects (Work in Progress)
+## 📂 Demo Projects
 
 - [Nuxt 4 Auth Demo](https://github.com/JoyMefisto/magic-link-auth-demo) – Magic Link and Cookie-Based Authentication
   🚀 [Live demo](https://magic-link-auth-demo.vercel.app/)
 - [Vue UI Library Demo](https://github.com/JoyMefisto/vue-ui-lib-demo) – Vue 3 UI library with three components (UButton, UCard, UInput), typed in TS, tested with Vitest, and documented in Storybook with CSS variable theming.
-- Vue Performance Lab (Vue 3 + Vite) 💫 Soon — experiments with rendering & optimization
+- [Vue Performance Lab](https://github.com/JoyMefisto/vue-perfomance-lab-demo) – Vue 3 practice with rendering and optimization
+  🚀 [Live demo](https://vue-perfomance-lab-demo.vercel.app/)
 
 ---
 
